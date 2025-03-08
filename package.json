@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "TCC-VTT",
   "private": true,
   "scripts": {
     "build": "turbo run build",
